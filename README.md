@@ -1,4 +1,4 @@
-# covid-us-2020-maps
+# COVID-19 Across US Counties
 
 ## Project Overview
 
