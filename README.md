@@ -11,11 +11,9 @@ Together, these maps allow users to explore the spatial distribution and intensi
 
 ## Live Maps
 
-Choropleth map (case rates):  
-https://nalemu13.github.io/COVID-19-Across-US-Counties/map1.html
+[Choropleth map (case rates)](https://nalemu13.github.io/COVID-19-Across-US-Counties/map1.html)
 
-Proportional symbols map (total cases):  
-https://nalemu13.github.io/COVID-19-Across-US-Counties/map2.html
+[Proportional symbols map (total cases)](https://nalemu13.github.io/COVID-19-Across-US-Counties/map2.html)
 
 ## Screenshots
 
