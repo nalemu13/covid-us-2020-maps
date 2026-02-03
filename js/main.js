@@ -1,4 +1,4 @@
-mapboxgl.accessToken = "YOUR_MAPBOX_TOKEN";
+mapboxgl.accessToken = "pk.eyJ1IjoibmFsZW11MTMiLCJhIjoiY21sMGJ1OGtuMGF0cDNlcHVydjRmNHNteCJ9.h4Fv_SYyOaBydO7lyixGyA";
 
 const path = window.location.pathname.toLowerCase();
 const isMap1 = path.includes("map1");
